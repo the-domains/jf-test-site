@@ -2,6 +2,7 @@ name: JF Test Site
 favicon: null
 layout_spectrum: 0.33811
 typography_spectrum: 0.34732
+title: Just testing out The Grid
 cta:
   domain: null
   bucket: null
