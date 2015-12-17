@@ -1,7 +1,7 @@
 name: JF Test Site
 favicon: null
-layout_spectrum: 0.3207777424249798
-typography_spectrum: 0.5131646157242358
+layout_spectrum: 0.33811
+typography_spectrum: 0.34732
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9355973566416651
-  lightness: 0.22759044519625604
-  saturation: 0.9186277796979994
-  rhythmicContrast: 0.0958498022519052
+  brandStrength: 0.625
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
